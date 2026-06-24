@@ -5,7 +5,7 @@ Welcome to my personal systems deployment and configuration repository. This rep
 ## 🛠️ Environment Overview
 * **OS:** Arch Linux (Minimal, keyboard-driven setup)
 * **Window Manager:** dwm (Suckless dynamic window manager compiled from source C)
-* **Primary Text Editor:** Neovim / Vim (Optimized CLI workflow)
+* **Primary Text Editor:** Neovim / Vim / Emacs (Optimized CLI workflow)
 * **Terminal Multiplexer:** Tmux (Advanced window/pane management)
 
 ## 📁 Repository Structure
